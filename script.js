@@ -3,7 +3,7 @@ let patternLines = [];
 let candles = [];
 let drawingMode = true;
 let bgColor;
-
+//
 function setup() {
   createCanvas(800, 600);
   bgColor = color(240, 240, 240); // Light gray background

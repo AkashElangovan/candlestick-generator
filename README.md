@@ -76,7 +76,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 <br>
 
-## Contact
-For any questions or issues, please contact:
-
-- Akash Elangovan: [akash.elangovan@example.com](mailto:akash.elangovan@example.com)
